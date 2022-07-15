@@ -15,7 +15,7 @@ body {
 
 .App {
   padding: 1rem;
-  max-width: 50%;
+  /* max-width: 50%; */
   margin: 0 auto;
   text-align: center;
   background: #333;
